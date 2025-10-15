@@ -1,0 +1,96 @@
+
+=== Data Structures & Algorithms Demo (v3.7) ===
+1) Singly Linked List
+2) Doubly Linked List
+3) Binary Search Tree
+4) Sorting Performance
+5) Searching Performance
+0) Exit
+> 
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> Value: [22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> Value: [21 -> 22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> Value: [24 -> 21 -> 22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> Value: [1 -> 24 -> 21 -> 22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> Value: [6 -> 1 -> 24 -> 21 -> 22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> [6 -> 1 -> 24 -> 21 -> 22]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> [1 -> 6 -> 21 -> 22 -> 24]
+Press Enter to continue...
+=== Singly Linked List ===
+1) Push Front
+2) Push Back
+3) Insert After
+4) Pop Front
+5) Sort (in-place merge)
+6) Print
+0) Return to Main Menu
+> 
+=== Data Structures & Algorithms Demo (v3.7) ===
+1) Singly Linked List
+2) Doubly Linked List
+3) Binary Search Tree
+4) Sorting Performance
+5) Searching Performance
+0) Exit
+> 

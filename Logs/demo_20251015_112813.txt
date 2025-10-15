@@ -1,0 +1,19 @@
+=== Data Structures & Algorithms Demo (v3.5) ===
+1) Singly Linked List (interactive)
+2) Doubly Linked List (interactive)
+3) Binary Search Tree (interactive)
+4) Binary Search Tree (autorun)
+5) Sorting Performance
+6) Searching Performance
+0) Exit
+> Singly Linked List (commands: push_front X | push_back X | insert_after X Y | pop_front | print | sort | exit)
+> unknown command
+> === Data Structures & Algorithms Demo (v3.5) ===
+1) Singly Linked List (interactive)
+2) Doubly Linked List (interactive)
+3) Binary Search Tree (interactive)
+4) Binary Search Tree (autorun)
+5) Sorting Performance
+6) Searching Performance
+0) Exit
+> 

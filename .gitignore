@@ -1,0 +1,29 @@
+# Ignore build outputs and user-specific files
+/x64/
+/Debug/
+/Release/
+/ipch/
+/.vs/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.user
+*.exe
+*.zip
+
+# Ignore intermediate Visual Studio data
+*.VC.db
+*.VC.VC.opendb
+
+# Keep source and project files
+!*.sln
+!*.vcxproj
+!*.filters
+!*.cpp
+!*.h
+!*.inl
+!*.txt
+!*.md
