@@ -9,3 +9,9 @@ Build:
 2) Select Debug | x64 (or Release)
 3) Build → Rebuild Solution
 4) Ctrl+F5 to run
+
+## Project meta
+
+- **[Contributing](CONTRIBUTING.md)** – how to propose changes, coding style, PR checklist  
+- **[Code of Conduct](CODE_OF_CONDUCT.md)** – be respectful; how to report issues  
+- **[License](LICENSE)** – MIT
